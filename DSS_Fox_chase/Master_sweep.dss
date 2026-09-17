@@ -1,0 +1,32 @@
+Clear
+
+New Circuit.FoxChaseFeeder basekv=12.47 pu=1.0 phases=3 bus1=source_bus R1=1e-05 X1=1e-05 R0=1e-05 X0=1e-05
+
+Redirect LineCodes.dss
+Redirect Lines.dss
+Redirect Transformers.dss
+Redirect LoadShapes.dss
+Redirect Loads.dss
+Redirect EV_load_shapes.dss
+Redirect EV_loads_1.dss
+
+
+
+New Monitor.m1 element=Line.l(source_to_benson) mode=0
+New Monitor.m2 element=Line.l(source_to_benson) mode=1
+New EnergyMeter.m3 Line.l(source_to_benson)
+
+
+Set Voltagebases=[12.47, 0.24]
+CalcVoltageBases
+
+Buscoords Buscoords.dss
+set maxcontroliter=50
+
+Set mode=daily
+Set stepsize=15m
+Set number=96
+Solve
+
+
+

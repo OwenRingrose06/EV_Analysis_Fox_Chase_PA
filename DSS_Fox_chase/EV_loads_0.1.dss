@@ -1,0 +1,10 @@
+New Load.ev_13 bus1=house_13.1.2 kV=0.24 kW=7.437 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_151_daily
+New Load.ev_15 bus1=house_15.1.2 kV=0.24 kW=9.081 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_221_daily
+New Load.ev_39 bus1=house_39.1.2 kV=0.24 kW=7.865 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_040_daily
+New Load.ev_58 bus1=house_58.1.2 kV=0.24 kW=10.226 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_105_daily
+New Load.ev_67 bus1=house_67.1.2 kV=0.24 kW=8.996 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_241_daily
+New Load.ev_71 bus1=house_71.1.2 kV=0.24 kW=9.639 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_194_daily
+New Load.ev_76 bus1=house_76.1.2 kV=0.24 kW=8.675 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_232_daily
+New Load.ev_89 bus1=house_89.1.2 kV=0.24 kW=7.258 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_096_daily
+New Load.ev_103 bus1=house_103.1.2 kV=0.24 kW=7.030 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_090_daily
+New Load.ev_107 bus1=house_107.1.2 kV=0.24 kW=8.244 kvar=0.000 Phases=2 daily=Class_2_L2_Medium_EV_049_daily

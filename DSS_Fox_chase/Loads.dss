@@ -1,0 +1,483 @@
+New Load.house_1_1 conn=wye bus1=house_1.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.212460041046143 kvar=2.0401875136248147 Phases=1 daily=27719_daily
+
+New Load.house_1_2 conn=wye bus1=house_1.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.212460041046143 kvar=2.0401875136248147 Phases=1 daily=27719_daily
+
+New Load.house_2_1 conn=wye bus1=house_2.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_2_2 conn=wye bus1=house_2.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_3_1 conn=wye bus1=house_3.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_3_2 conn=wye bus1=house_3.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_4_1 conn=wye bus1=house_4.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_4_2 conn=wye bus1=house_4.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_5_1 conn=wye bus1=house_5.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_5_2 conn=wye bus1=house_5.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_6_1 conn=wye bus1=house_6.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_6_2 conn=wye bus1=house_6.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_7_1 conn=wye bus1=house_7.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_7_2 conn=wye bus1=house_7.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_8_1 conn=wye bus1=house_8.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_8_2 conn=wye bus1=house_8.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_9_1 conn=wye bus1=house_9.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9928399920463562 kvar=0.48085435471508803 Phases=1 daily=326_daily
+
+New Load.house_9_2 conn=wye bus1=house_9.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9928399920463562 kvar=0.48085435471508803 Phases=1 daily=326_daily
+
+New Load.house_10_1 conn=wye bus1=house_10.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_10_2 conn=wye bus1=house_10.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_11_1 conn=wye bus1=house_11.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_11_2 conn=wye bus1=house_11.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_12_1 conn=wye bus1=house_12.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_12_2 conn=wye bus1=house_12.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_13_1 conn=wye bus1=house_13.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_13_2 conn=wye bus1=house_13.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_14_1 conn=wye bus1=house_14.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8827800154685974 kvar=0.4275498752005431 Phases=1 daily=178348_daily
+
+New Load.house_14_2 conn=wye bus1=house_14.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8827800154685974 kvar=0.4275498752005431 Phases=1 daily=178348_daily
+
+New Load.house_15_1 conn=wye bus1=house_15.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.8874199390411377 kvar=1.3984413024271878 Phases=1 daily=39198_daily
+
+New Load.house_15_2 conn=wye bus1=house_15.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.8874199390411377 kvar=1.3984413024271878 Phases=1 daily=39198_daily
+
+New Load.house_16_1 conn=wye bus1=house_16.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.10506010055542 kvar=1.503849243549035 Phases=1 daily=2512_daily
+
+New Load.house_16_2 conn=wye bus1=house_16.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.10506010055542 kvar=1.503849243549035 Phases=1 daily=2512_daily
+
+New Load.house_17_1 conn=wye bus1=house_17.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9458600282669066 kvar=0.4581009197722189 Phases=1 daily=10403_daily
+
+New Load.house_17_2 conn=wye bus1=house_17.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9458600282669066 kvar=0.4581009197722189 Phases=1 daily=10403_daily
+
+New Load.house_18_1 conn=wye bus1=house_18.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_18_2 conn=wye bus1=house_18.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_19_1 conn=wye bus1=house_19.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_19_2 conn=wye bus1=house_19.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_20_1 conn=wye bus1=house_20.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_20_2 conn=wye bus1=house_20.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_21_1 conn=wye bus1=house_21.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_21_2 conn=wye bus1=house_21.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_22_1 conn=wye bus1=house_22.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_22_2 conn=wye bus1=house_22.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_23_1 conn=wye bus1=house_23.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_23_2 conn=wye bus1=house_23.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_24_1 conn=wye bus1=house_24.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_24_2 conn=wye bus1=house_24.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_25_1 conn=wye bus1=house_25.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_25_2 conn=wye bus1=house_25.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_26_1 conn=wye bus1=house_26.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_26_2 conn=wye bus1=house_26.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_27_1 conn=wye bus1=house_27.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_27_2 conn=wye bus1=house_27.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_28_1 conn=wye bus1=house_28.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_28_2 conn=wye bus1=house_28.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_29_1 conn=wye bus1=house_29.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_29_2 conn=wye bus1=house_29.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_30_1 conn=wye bus1=house_30.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.297719955444336 kvar=0.628514460310885 Phases=1 daily=50000_daily
+
+New Load.house_30_2 conn=wye bus1=house_30.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.297719955444336 kvar=0.628514460310885 Phases=1 daily=50000_daily
+
+New Load.house_31_1 conn=wye bus1=house_31.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_31_2 conn=wye bus1=house_31.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_32_1 conn=wye bus1=house_32.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_32_2 conn=wye bus1=house_32.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_33_1 conn=wye bus1=house_33.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_33_2 conn=wye bus1=house_33.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_34_1 conn=wye bus1=house_34.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8827800154685974 kvar=0.4275498752005431 Phases=1 daily=178348_daily
+
+New Load.house_34_2 conn=wye bus1=house_34.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8827800154685974 kvar=0.4275498752005431 Phases=1 daily=178348_daily
+
+New Load.house_35_1 conn=wye bus1=house_35.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_35_2 conn=wye bus1=house_35.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_36_1 conn=wye bus1=house_36.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_36_2 conn=wye bus1=house_36.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_37_1 conn=wye bus1=house_37.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_37_2 conn=wye bus1=house_37.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_38_1 conn=wye bus1=house_38.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_38_2 conn=wye bus1=house_38.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_39_1 conn=wye bus1=house_39.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_39_2 conn=wye bus1=house_39.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_40_1 conn=wye bus1=house_40.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_40_2 conn=wye bus1=house_40.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_41_1 conn=wye bus1=house_41.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_41_2 conn=wye bus1=house_41.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_42_1 conn=wye bus1=house_42.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_42_2 conn=wye bus1=house_42.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_43_1 conn=wye bus1=house_43.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_43_2 conn=wye bus1=house_43.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_44_1 conn=wye bus1=house_44.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_44_2 conn=wye bus1=house_44.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_45_1 conn=wye bus1=house_45.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_45_2 conn=wye bus1=house_45.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_46_1 conn=wye bus1=house_46.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_46_2 conn=wye bus1=house_46.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_47_1 conn=wye bus1=house_47.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_47_2 conn=wye bus1=house_47.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_48_1 conn=wye bus1=house_48.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_48_2 conn=wye bus1=house_48.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_49_1 conn=wye bus1=house_49.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_49_2 conn=wye bus1=house_49.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_50_1 conn=wye bus1=house_50.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_50_2 conn=wye bus1=house_50.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_51_1 conn=wye bus1=house_51.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_51_2 conn=wye bus1=house_51.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_52_1 conn=wye bus1=house_52.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_52_2 conn=wye bus1=house_52.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_53_1 conn=wye bus1=house_53.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_53_2 conn=wye bus1=house_53.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_54_1 conn=wye bus1=house_54.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_54_2 conn=wye bus1=house_54.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_55_1 conn=wye bus1=house_55.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_55_2 conn=wye bus1=house_55.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.040519952774048 kvar=0.5039468136533098 Phases=1 daily=85457_daily
+
+New Load.house_56_1 conn=wye bus1=house_56.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_56_2 conn=wye bus1=house_56.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_57_1 conn=wye bus1=house_57.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_57_2 conn=wye bus1=house_57.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_58_1 conn=wye bus1=house_58.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_58_2 conn=wye bus1=house_58.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_59_1 conn=wye bus1=house_59.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_59_2 conn=wye bus1=house_59.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.0731799602508545 kvar=0.5197647772184968 Phases=1 daily=5114_daily
+
+New Load.house_60_1 conn=wye bus1=house_60.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_60_2 conn=wye bus1=house_60.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_61_1 conn=wye bus1=house_61.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1710400581359863 kvar=1.0514826906437147 Phases=1 daily=3710_daily
+
+New Load.house_61_2 conn=wye bus1=house_61.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1710400581359863 kvar=1.0514826906437147 Phases=1 daily=3710_daily
+
+New Load.house_62_1 conn=wye bus1=house_62.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_62_2 conn=wye bus1=house_62.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_63_1 conn=wye bus1=house_63.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_63_2 conn=wye bus1=house_63.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_64_1 conn=wye bus1=house_64.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_64_2 conn=wye bus1=house_64.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_65_1 conn=wye bus1=house_65.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_65_2 conn=wye bus1=house_65.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_66_1 conn=wye bus1=house_66.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_66_2 conn=wye bus1=house_66.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.187800049781799 kvar=0.5752778202368269 Phases=1 daily=13035_daily
+
+New Load.house_67_1 conn=wye bus1=house_67.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_67_2 conn=wye bus1=house_67.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_68_1 conn=wye bus1=house_68.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_68_2 conn=wye bus1=house_68.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.850260019302368 kvar=1.3804439318837012 Phases=1 daily=80166_daily
+
+New Load.house_69_1 conn=wye bus1=house_69.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_69_2 conn=wye bus1=house_69.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_70_1 conn=wye bus1=house_70.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_70_2 conn=wye bus1=house_70.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.6080600023269654 kvar=0.2944969001947054 Phases=1 daily=2125_daily
+
+New Load.house_71_1 conn=wye bus1=house_71.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.212460041046143 kvar=2.0401875136248147 Phases=1 daily=27719_daily
+
+New Load.house_71_2 conn=wye bus1=house_71.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.212460041046143 kvar=2.0401875136248147 Phases=1 daily=27719_daily
+
+New Load.house_72_1 conn=wye bus1=house_72.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_72_2 conn=wye bus1=house_72.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_73_1 conn=wye bus1=house_73.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_73_2 conn=wye bus1=house_73.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_74_1 conn=wye bus1=house_74.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_74_2 conn=wye bus1=house_74.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_75_1 conn=wye bus1=house_75.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_75_2 conn=wye bus1=house_75.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_76_1 conn=wye bus1=house_76.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_76_2 conn=wye bus1=house_76.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_77_1 conn=wye bus1=house_77.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_77_2 conn=wye bus1=house_77.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_78_1 conn=wye bus1=house_78.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8689200282096863 kvar=0.4208371769982815 Phases=1 daily=27162_daily
+
+New Load.house_78_2 conn=wye bus1=house_78.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8689200282096863 kvar=0.4208371769982815 Phases=1 daily=27162_daily
+
+New Load.house_79_1 conn=wye bus1=house_79.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_79_2 conn=wye bus1=house_79.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_80_1 conn=wye bus1=house_80.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2665799856185913 kvar=0.6134326845802931 Phases=1 daily=3414_daily
+
+New Load.house_80_2 conn=wye bus1=house_80.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2665799856185913 kvar=0.6134326845802931 Phases=1 daily=3414_daily
+
+New Load.house_81_1 conn=wye bus1=house_81.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.6670401096343994 kvar=1.776028584422962 Phases=1 daily=29643_daily
+
+New Load.house_81_2 conn=wye bus1=house_81.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.6670401096343994 kvar=1.776028584422962 Phases=1 daily=29643_daily
+
+New Load.house_82_1 conn=wye bus1=house_82.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6706199645996094 kvar=0.8091181776390215 Phases=1 daily=22973_daily
+
+New Load.house_82_2 conn=wye bus1=house_82.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6706199645996094 kvar=0.8091181776390215 Phases=1 daily=22973_daily
+
+New Load.house_83_1 conn=wye bus1=house_83.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_83_2 conn=wye bus1=house_83.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_84_1 conn=wye bus1=house_84.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_84_2 conn=wye bus1=house_84.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_85_1 conn=wye bus1=house_85.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_85_2 conn=wye bus1=house_85.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_86_1 conn=wye bus1=house_86.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_86_2 conn=wye bus1=house_86.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_87_1 conn=wye bus1=house_87.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_87_2 conn=wye bus1=house_87.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_88_1 conn=wye bus1=house_88.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_88_2 conn=wye bus1=house_88.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_89_1 conn=wye bus1=house_89.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_89_2 conn=wye bus1=house_89.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_90_1 conn=wye bus1=house_90.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_90_2 conn=wye bus1=house_90.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2302000522613525 kvar=0.5958130786828545 Phases=1 daily=8328_daily
+
+New Load.house_91_1 conn=wye bus1=house_91.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_91_2 conn=wye bus1=house_91.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.8992400169372557 kvar=0.4355218177574779 Phases=1 daily=822_daily
+
+New Load.house_92_1 conn=wye bus1=house_92.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6706199645996094 kvar=0.8091181776390215 Phases=1 daily=22973_daily
+
+New Load.house_92_2 conn=wye bus1=house_92.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6706199645996094 kvar=0.8091181776390215 Phases=1 daily=22973_daily
+
+New Load.house_93_1 conn=wye bus1=house_93.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_93_2 conn=wye bus1=house_93.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_94_1 conn=wye bus1=house_94.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2665799856185913 kvar=0.6134326845802931 Phases=1 daily=3414_daily
+
+New Load.house_94_2 conn=wye bus1=house_94.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2665799856185913 kvar=0.6134326845802931 Phases=1 daily=3414_daily
+
+New Load.house_95_1 conn=wye bus1=house_95.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_95_2 conn=wye bus1=house_95.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.201200008392334 kvar=1.0660898212336738 Phases=1 daily=86867_daily
+
+New Load.house_96_1 conn=wye bus1=house_96.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_96_2 conn=wye bus1=house_96.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_97_1 conn=wye bus1=house_97.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_97_2 conn=wye bus1=house_97.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_98_1 conn=wye bus1=house_98.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_98_2 conn=wye bus1=house_98.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.6420600414276123 kvar=0.7952859755343525 Phases=1 daily=2727_daily
+
+New Load.house_99_1 conn=wye bus1=house_99.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_99_2 conn=wye bus1=house_99.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_100_1 conn=wye bus1=house_100.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_100_2 conn=wye bus1=house_100.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_101_1 conn=wye bus1=house_101.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_101_2 conn=wye bus1=house_101.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_102_1 conn=wye bus1=house_102.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_102_2 conn=wye bus1=house_102.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_103_1 conn=wye bus1=house_103.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_103_2 conn=wye bus1=house_103.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_104_1 conn=wye bus1=house_104.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_104_2 conn=wye bus1=house_104.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_105_1 conn=wye bus1=house_105.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_105_2 conn=wye bus1=house_105.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_106_1 conn=wye bus1=house_106.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_106_2 conn=wye bus1=house_106.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_107_1 conn=wye bus1=house_107.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1710400581359863 kvar=1.0514826906437147 Phases=1 daily=3710_daily
+
+New Load.house_107_2 conn=wye bus1=house_107.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1710400581359863 kvar=1.0514826906437147 Phases=1 daily=3710_daily
+
+New Load.house_108_1 conn=wye bus1=house_108.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_108_2 conn=wye bus1=house_108.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_109_1 conn=wye bus1=house_109.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_109_2 conn=wye bus1=house_109.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_110_1 conn=wye bus1=house_110.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_110_2 conn=wye bus1=house_110.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1691200733184814 kvar=1.050552799555644 Phases=1 daily=1948_daily
+
+New Load.house_111_1 conn=wye bus1=house_111.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_111_2 conn=wye bus1=house_111.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_112_1 conn=wye bus1=house_112.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_112_2 conn=wye bus1=house_112.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.93038010597229 kvar=1.419247860899469 Phases=1 daily=42074_daily
+
+New Load.house_113_1 conn=wye bus1=house_113.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_113_2 conn=wye bus1=house_113.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_114_1 conn=wye bus1=house_114.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_114_2 conn=wye bus1=house_114.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=4.405379772186279 kvar=2.133622803875358 Phases=1 daily=63240_daily
+
+New Load.house_115_1 conn=wye bus1=house_115.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_115_2 conn=wye bus1=house_115.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.182219982147217 kvar=1.056897374972761 Phases=1 daily=33164_daily
+
+New Load.house_116_1 conn=wye bus1=house_116.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_116_2 conn=wye bus1=house_116.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.1577799320220947 kvar=1.0450605184538193 Phases=1 daily=13892_daily
+
+New Load.house_117_1 conn=wye bus1=house_117.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9301999807357788 kvar=0.4505164125900823 Phases=1 daily=63101_daily
+
+New Load.house_117_2 conn=wye bus1=house_117.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=0.9301999807357788 kvar=0.4505164125900823 Phases=1 daily=63101_daily
+
+New Load.house_118_1 conn=wye bus1=house_118.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_118_2 conn=wye bus1=house_118.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=1.2927800416946411 kvar=0.6261219508859154 Phases=1 daily=40599_daily
+
+New Load.house_119_1 conn=wye bus1=house_119.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_119_2 conn=wye bus1=house_119.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=2.4214999675750732 kvar=1.1727859611607512 Phases=1 daily=1263_daily
+
+New Load.house_120_1 conn=wye bus1=house_120.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_120_2 conn=wye bus1=house_120.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.377120018005371 kvar=1.6356138754104077 Phases=1 daily=48041_daily
+
+New Load.house_121_1 conn=wye bus1=house_121.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.2407000064849854 kvar=1.5695426482888504 Phases=1 daily=10531_daily
+
+New Load.house_121_2 conn=wye bus1=house_121.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.2407000064849854 kvar=1.5695426482888504 Phases=1 daily=10531_daily
